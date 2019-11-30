@@ -1,0 +1,102 @@
+body {
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#upgradePick {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  float: right;
+  margin: 0;
+  display: inline-block;
+}
+
+#buyAutobuy {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  float: right;
+  margin: 0;
+  display: inline-block;
+}
+
+#buyAutobuyUpgrade {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  float: right;
+  margin: 0;
+  display: inline-block;
+}
+
+#prestigeButton {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  float: right;
+  margin: 0;
+  display: inline-block;
+}
+
+#mine {
+  display: block;
+  width: 25%;
+  border: none;
+  background-color: #87ceeb;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  float: center;
+  margin: 0;
+  display: inline-block;
+}
+
+.identifier {
+  font-size: 25px;
+  text-align: center;
+}
+
+span#prestigeLabel {
+  width: 1%;
+  border: none;
+  padding: 5px 2px;
+  font-size: 16px;
+  text-align: center;
+  float: right;
+  margin: 0;
+  display: inline-block;
+}
+
+span#goldId {
+  width: 88%;
+  border: none;
+  padding: 14px 15px;
+  font-size: 32px;
+  text-align: center;
+  float: center;
+  margin: 0;
+  display: inline-block;
+}
